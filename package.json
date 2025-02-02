@@ -1,5 +1,5 @@
 {
-  "name": "health-challenge-tracker",
+  "name": "health-tracker",
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
