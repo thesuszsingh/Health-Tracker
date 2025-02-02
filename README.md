@@ -1,8 +1,8 @@
-<h1> Health Challenge Tracker</h1>
+<h1> Health Tracker</h1>
 
 <h2>Overview</h2>
 <p>
-Health Challenge Tracker is a single-page application (SPA) developed using Angular 14+. This application allows users to track their workouts, manage workout data, and visualize workout progress through various features. It is designed to help users maintain their fitness goals and monitor their activities efficiently.</p>
+Health Tracker is a single-page application (SPA) developed using Angular 14+. This application allows users to track their workouts, manage workout data, and visualize workout progress through various features. It is designed to help users maintain their fitness goals and monitor their activities efficiently.</p>
 
 <h2>Features</h2>
 
@@ -24,12 +24,6 @@ Health Challenge Tracker is a single-page application (SPA) developed using Angu
 <h3> Responsive Design </h3>
 - <b>Responsive UI:</b> The application is designed to be responsive and user-friendly, making it accessible on various devices.
 
-<h3> Screenshots</h3>
-
-![]https://github.com/ichhakumari/Health-Challenge-Tracker-master/blob/main/Screenshot%202024-07-20%20193534.png
-<br>
-![]https://github.com/ichhakumari/Health-Challenge-Tracker-master/blob/main/Screenshot%202024-07-20%20193713.png
-
 
 
 <h3> Getting Started</h3>
@@ -45,8 +39,8 @@ Follow these steps to run the application locally.
 
 1. <b>Clone the Repository:</b>
 <p>
-    git clone https://github.com/ichhakumari/health-challenge-tracker-master.git
-    cd Health-Challenge-Tracker
+    git clone https://github.com/thesuszsingh/health-Tracker.git
+    cd Health-Tracker
 </p>
 
 2. <b>Install Dependencies:</b>
@@ -60,7 +54,7 @@ Follow these steps to run the application locally.
    <p> 
     ng serve<br>
     
-    Navigate to `http://localhost:52144/`. The application will automatically reload if you change any of the source files.</p>
+    Navigate to `http://localhost:4022/`. The application will automatically reload if you change any of the source files.</p>
 
 <h3>Code Scaffolding</h3>
 <p>
